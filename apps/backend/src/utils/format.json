@@ -1,0 +1,38 @@
+{
+  "type": "excalidraw/clipboard",
+  "elements": [
+    {
+      "id": "string",
+      "type": "rectangle | ellipse | diamond | text | line | arrow | freedraw | image | frame | magicframe | iframe | embeddable | selection",
+      "x": 0,
+      "y": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure | cross-hatch | solid | zigzag",
+      "strokeWidth": 1,
+      "strokeStyle": "solid | dashed | dotted",
+      "roundness": {
+        "type": 1,
+        "value": 0
+      },
+      "roughness": 1,
+      "opacity": 100,
+      "width": 100,
+      "height": 100,
+      "angle": 0,
+      "seed": 123456,
+      "version": 1,
+      "versionNonce": 123456789,
+      "index": "a1",
+      "isDeleted": false,
+      "groupIds": [],
+      "frameId": null,
+      "boundElements": null,
+      "updated": 1710000000000,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "files": {}
+}
+
